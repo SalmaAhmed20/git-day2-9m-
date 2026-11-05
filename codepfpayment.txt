@@ -1,4 +1,4 @@
-Add payment code 
+Add payment code (sorry for conflict)
 ===
 remote main (change in from test/conflict-remote)
 remote main (hello from main sorry fot the conflict)
